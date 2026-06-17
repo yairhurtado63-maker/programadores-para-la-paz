@@ -1,0 +1,6 @@
+Git es importante porque registra cada cambio del proyecto con fecha y autor.
+La trazabilidad permite saber quién hizo qué y cuándo se hizo.
+Si el código se daña, se puede volver a un commit anterior sin perder todo.
+Con varios programadores Git evita que se pisen el trabajo.
+Los mensajes de commit sirven como documentación del proyecto.
+GitHub demuestra el avance técnico de cada estudiante semana a semana.
