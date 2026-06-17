@@ -1,0 +1,5 @@
+Repositorio: Carpeta o proyecto donde Git guarda todos los archivos y el historial de cambios.
+
+Commit: Es como una "foto" del proyecto. Guarda los cambios con mensaje, fecha, hora y autor.
+
+Push: Comando que sube los commits desde tu computador/Codespaces a GitHub para que otros los vean.
