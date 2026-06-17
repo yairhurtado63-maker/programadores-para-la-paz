@@ -1,0 +1,3 @@
+Esta ruta POST /reporte recibe datos JSON del usuario y responde con un JSON confirmando "Reporte recibido" junto con el mensaje enviado.
+
+En una aplicación comunitaria serviría para que vecinos envíen reportes: daños en vías, alumbrado dañado, recolección de basura, etc. La información llega organizada al servidor y se puede guardar en una base de datos después.
