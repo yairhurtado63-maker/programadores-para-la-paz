@@ -1,0 +1,11 @@
+Para las comunidades e iniciativas ciudadanas es clave poder construir sus propias herramientas tecnológicas con tecnologías abiertas como Node.js. 
+
+Primero, porque da autonomía. No dependen de empresas grandes ni de plataformas que cobran o cambian las reglas cuando quieren. Ellos mismos pueden crear lo que necesitan.
+
+Segundo, Node.js es gratuito y hay mucha documentación. Cualquier persona con internet puede aprender y adaptarlo a su contexto, sin pagar licencias costosas.
+
+Tercero, al usar código abierto se promueve la colaboración. Varias personas pueden mejorar la herramienta y compartirla con otras comunidades.
+
+Cuarto, permite crear soluciones reales para problemas locales. Un servidor básico puede ser el inicio de una app para convocatorias, reportes o comunicación interna.
+
+Al final, tener herramientas propias fortalece la participación y la cultura de paz digital, porque la tecnología deja de ser solo consumo y pasa a ser creación colectiva.
