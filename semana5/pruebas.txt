@@ -1,0 +1,5 @@
+Ruta /: Muestra el mensaje "Servidor activo". Confirma que el servidor está corriendo.
+
+Ruta /saludo: Muestra "Hola comunidad". Es una ruta GET fija.
+
+Ruta /mensaje/juan: Muestra "Hola juan". Usa un parámetro :nombre que cambia según lo que escribas en la URL.
