@@ -1,0 +1,9 @@
+Al enviar POST a http://localhost:3000/registro con el JSON {"nombre":"Maria","mensaje":"Hola comunidad"}, el servidor responde:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esto confirma que express.json() leyó correctamente el cuerpo de la petición y req.body extrajo los datos.
