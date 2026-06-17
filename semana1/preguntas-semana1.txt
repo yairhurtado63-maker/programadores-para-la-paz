@@ -1,0 +1,12 @@
+1. ¿Qué es un algoritmo? 
+Un algoritmo es una serie de pasos ordenados y finitos que se siguen para resolver un problema o realizar una tarea.
+
+2. Da 2 ejemplos de algoritmos en la vida diaria
+Ejemplo 1: Una receta de cocina - tiene ingredientes y pasos en orden para hacer el plato.
+Ejemplo 2: Cepillarse los dientes - mojar cepillo, poner crema, cepillar 2 min, enjuagar.
+
+3. ¿Qué diferencia hay entre un lenguaje de programación y un lenguaje natural?
+El lenguaje natural es el que hablamos los humanos y es ambiguo. El lenguaje de programación es preciso, tiene reglas estrictas y la computadora lo entiende para ejecutar órdenes.
+
+4. ¿Para qué sirve Git y GitHub en programación?
+Git sirve para guardar versiones del código y controlar cambios. GitHub es una página web donde se sube el código de Git para compartirlo, trabajar en equipo y que otros lo vean.
