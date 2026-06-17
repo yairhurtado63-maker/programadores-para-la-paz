@@ -1,0 +1,17 @@
+Las APIs ayudan a que las comunidades compartan información de forma organizada porque estandarizan cómo se envían y reciben los datos. 
+
+Con una API de reportes, cualquier vecino puede enviar una alerta desde su celular y el servidor la recibe con el mismo formato. 
+
+Esto evita mensajes perdidos en WhatsApp o audios confusos. 
+
+Los reportes quedan estructurados: fecha, tipo de problema, ubicación, descripción. 
+
+Así los líderes comunitarios pueden filtrar, contar y priorizar los casos reales. 
+
+También permite que varias apps se conecten al mismo sistema de reportes. 
+
+Una API bien hecha hace que la información no se pierda y llegue directo a quien debe resolverla. 
+
+De esta forma la comunidad pasa de quejas desordenadas a datos útiles para tomar decisiones. 
+
+Por eso las APIs son clave para construir soluciones digitales comunitarias.
