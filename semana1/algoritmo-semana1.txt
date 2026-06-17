@@ -1,0 +1,9 @@
+ALGORITMO: PREPARAR UN CAFÉ INSTANTÁNEO
+
+Paso 1: Coger una taza limpia
+Paso 2: Agregar 1 cucharadita de café instantáneo a la taza
+Paso 3: Agregar 1-2 cucharaditas de azúcar según el gusto
+Paso 4: Calentar agua hasta que hierva
+Paso 5: Verter el agua caliente en la taza
+Paso 6: Revolver con una cuchara durante 10 segundos
+Paso 7: Tomar el café
