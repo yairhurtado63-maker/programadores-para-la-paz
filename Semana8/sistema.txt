@@ -1,0 +1,12 @@
+Comando uname -a:
+Muestra información completa del sistema operativo: nombre del kernel, versión, arquitectura del procesador, fecha. 
+Ejemplo: Linux codespaces-xxx 5.15.0 x86_64 GNU/Linux
+
+Comando whoami:
+Muestra el nombre del usuario que está usando la terminal actualmente.
+Ejemplo: codespace
+
+Por qué es útil:
+1. uname -a sirve para saber qué versión de Linux corre el servidor y detectar si hay vulnerabilidades viejas.
+2. whoami sirve para confirmar con qué permisos estás trabajando antes de ejecutar comandos delicados.
+Administrar un servidor sin saber esto es riesgoso porque puedes borrar o cambiar cosas sin querer.
