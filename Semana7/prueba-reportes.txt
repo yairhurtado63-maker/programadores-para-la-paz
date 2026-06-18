@@ -1,0 +1,12 @@
+Cuando consulto GET /reportes el servidor me devuelve todos los reportes guardados en el array en formato JSON.
+
+Si solo registré 1 reporte, la respuesta es un array con 1 objeto:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Si detengo el servidor y lo vuelvo a iniciar, el array se vacía porque los datos solo están en memoria. Por eso al hacer GET otra vez me devuelve [] hasta que registre reportes nuevos.
