@@ -1,0 +1,10 @@
+cd semana8
+mkdir seguridad
+cd seguridad
+echo "1. Proteger contraseñas con gestores o frases largas" > buenas-practicas.txt
+echo "2. No compartir credenciales ni por WhatsApp" >> buenas-practicas.txt
+echo "3. Mantener software y sistema actualizado" >> buenas-practicas.txt
+cat buenas-practicas.txt
+
+cd ..
+uname -a
