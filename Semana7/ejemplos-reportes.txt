@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Seguridad",
+  "descripcion": "Luz de semáforo dañada en la calle 30 con carrera 50, riesgo de accidentes"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ambiente",
+  "descripcion": "Tala de árboles sin permiso en el parque del barrio, pérdida de zonas verdes"
+}
