@@ -1,0 +1,14 @@
+Al ejecutar node server.js:
+1. La terminal muestra el mensaje: Servidor ejecutándose en puerto 3000
+2. El servidor queda activo esperando solicitudes de usuarios.
+
+Al visitar http://localhost:3000:
+Se muestra en el navegador: Servidor activo y funcionando
+
+Al visitar http://localhost:3000/estado:
+El navegador muestra el objeto JSON:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
+Esto confirma que el servidor responde correctamente y está estable.
