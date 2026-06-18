@@ -1,0 +1,19 @@
+Sistema operativo:
+Es la base donde corre todo. Administra el hardware, memoria y procesos. 
+Ejemplo: Linux en Codespaces. Sin él, Node.js no podría ejecutarse.
+
+Node.js:
+Es el entorno que permite ejecutar JavaScript fuera del navegador. 
+Interpreta el código de server.js y gestiona las solicitudes al servidor.
+
+Aplicación server.js:
+Es el código que escribimos con Express. Define las rutas / y /estado 
+y qué debe responder el servidor cuando un usuario entra.
+
+Puerto:
+Es la "puerta" de comunicación. El puerto 3000 es la dirección específica 
+donde el servidor escucha y recibe solicitudes de los usuarios.
+
+Logs:
+Son los registros de actividad. En este caso el console.log muestra en 
+terminal qué está pasando. Sirven para detectar errores y mantener estabilidad.
