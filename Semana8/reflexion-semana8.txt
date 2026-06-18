@@ -1,0 +1,9 @@
+La seguridad digital es clave porque las plataformas comunitarias manejan datos de personas reales. Si se filtran nombres, cédulas o ubicaciones, se pone en riesgo la vida y confianza de los vecinos.
+
+Sin seguridad, cualquiera puede entrar, borrar reportes o suplantar usuarios. Eso destruye la participación porque nadie denuncia si no hay garantías.
+
+Usar Linux y la terminal nos enseña que detrás de cada botón hay un servidor que hay que proteger. Comandos como whoami y uname ayudan a saber qué sistema tenemos y quién lo usa.
+
+Además, la seguridad es responsabilidad de todos. No solo del programador: el usuario debe usar contraseñas fuertes y no compartir claves.
+
+Una plataforma participativa solo funciona si la gente se siente segura. La tecnología abre las puertas, pero la seguridad cuida que nadie abuse de esa apertura. Por eso debemos aprender estas prácticas desde ya.
