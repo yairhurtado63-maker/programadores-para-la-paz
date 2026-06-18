@@ -1,0 +1,5 @@
+1. No exponer datos personales: Ocultar cédula, teléfono y dirección exacta de los usuarios.
+2. Proteger credenciales: Usar contraseñas fuertes y autenticación para acciones como reportar o eliminar.
+3. Usar conexiones seguras: La plataforma debe usar HTTPS para que nadie intercepte los datos.
+4. Registrar accesos: Guardar logs de quién entró y qué hizo, para detectar abusos.
+5. Limitar acceso por roles: Que el ciudadano normal no pueda borrar reportes, solo un admin.
