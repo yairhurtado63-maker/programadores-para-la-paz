@@ -1,0 +1,11 @@
+Las plataformas comunitarias deben funcionar 24/7 porque los vecinos reportan problemas en cualquier momento. Si el servidor se cae, se pierde confianza y la gente deja de participar.
+
+Un servidor estable significa que siempre responde en el puerto correcto, sin errores. Los logs son clave porque nos avisan si algo falla antes de que afecte a todos.
+
+Node.js y Express hacen que el servidor sea liviano y rápido, ideal para comunidades con pocos recursos. Así no dependemos de servidores caros o cerrados.
+
+Además, tener el código de server.js bajo control nos da soberanía. La comunidad puede revisar, mejorar y auditar cómo funciona su propia plataforma.
+
+La seguridad también pasa por el servidor: si no monitoreamos y no cuidamos el puerto, cualquiera puede tumbar el servicio. Por eso estabilidad + seguridad = confianza comunitaria.
+
+Al final, una plataforma que no se cae y que responde rápido demuestra respeto por el tiempo de la gente. Esa es la base para que la comunidad siga activa y crezca.
