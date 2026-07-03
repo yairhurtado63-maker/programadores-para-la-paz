@@ -1,0 +1,9 @@
+El login permite identificar a un usuario antes de darle acceso a funciones de la plataforma, como crear causas o ver datos internos.
+
+Algunas rutas deben estar protegidas porque contienen información sensible, registros de cambios o acciones administrativas que no deben ser públicas.
+
+Sin autenticación cualquier persona podría modificar o eliminar información.
+
+No se deben exponer públicamente contraseñas, tokens, documentos de identidad, direcciones, teléfonos ni datos personales de la comunidad.
+
+Solo se debe mostrar la información mínima necesaria para el funcionamiento de la plataforma.
