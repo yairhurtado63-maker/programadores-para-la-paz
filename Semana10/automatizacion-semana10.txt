@@ -1,0 +1,10 @@
+Flujo con n8n y Telegram:
+
+¿Qué evento activa el flujo?
+R: Cuando un ciudadano registra un nuevo reporte en el sistema.
+
+¿Qué mensaje se enviaría a Telegram?
+R: "Alerta: Nuevo reporte registrado. ID: 1234. Categoría: Alumbrado público. Revisar en el sistema."
+
+¿Qué información NO debería enviarse por seguridad?
+R: No se deben enviar nombres completos, números de documento, direcciones exactas, teléfonos, correos, ni datos sensibles de las personas. Solo ID del caso y categoría general.
