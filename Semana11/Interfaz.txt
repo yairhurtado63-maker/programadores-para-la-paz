@@ -1,9 +1,0 @@
-La interfaz tendría un formulario para crear una nueva causa con campos como título, descripción y fecha.
-
-También mostraría una lista de causas disponibles para que la comunidad pueda leerlas y hacer seguimiento.
-
-Cada causa tendría un botón de "Apoyar" y un contador que muestre cuántas personas la han apoyado.
-
-La interfaz debe ser clara, sencilla y accesible desde el celular.
-
-No debe mostrar información privada de los usuarios, solo datos necesarios para el control social.
