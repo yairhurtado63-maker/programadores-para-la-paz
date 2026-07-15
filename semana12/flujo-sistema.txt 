@@ -1,0 +1,6 @@
+Paso 1: Un ciudadano ingresa a la plataforma y registra una nueva causa social. Completa título y descripción.
+Paso 2: La causa se guarda en la base de datos y queda visible para toda la comunidad.
+Paso 3: Otros ciudadanos pueden entrar y registrar su apoyo a la causa con un solo clic.
+Paso 4: El sistema lleva el conteo automático de apoyos y verifica si se alcanza la meta mínima.
+Paso 5: Cuando se cumple la meta, el sistema genera automáticamente un documento PDF con la petición formal.
+Paso 6: El PDF puede ser descargado y compartido con entidades para hacer la solicitud oficial.
