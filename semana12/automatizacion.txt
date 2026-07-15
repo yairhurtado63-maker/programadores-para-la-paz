@@ -1,0 +1,15 @@
+AUTOMATIZACIÓN CON n8n O TELEGRAM
+
+Evento que activa la automatización:
+Cuando una causa alcanza el número mínimo de apoyos definidos.
+
+Mensaje que se envía por Telegram al grupo de la comunidad:
+"Nueva petición lista para descargar. La causa '[titulo de la causa]' alcanzó [número] apoyos. El PDF ya fue generado."
+
+Información que NO debe enviarse por seguridad:
+•⁠  ⁠Nombres completos de quienes apoyaron
+•⁠  ⁠Cédulas
+•⁠  ⁠Teléfonos
+•⁠  ⁠Direcciones
+•⁠  ⁠Correos personales
+Solo se envía información general de la causa y el conteo total.
